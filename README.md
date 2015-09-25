@@ -2,3 +2,5 @@
 Font-Awesome additional icons
 
 Some extra icons for Font-Awesome
+* fa-paint-brush-o
+ 
